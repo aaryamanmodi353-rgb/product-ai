@@ -4,7 +4,7 @@ A full-stack AI-powered web application that predicts the optimal listing price 
 
 This project was built as an end-to-end Machine Learning pipeline utilizing the **Mercari Price Suggestion Challenge** dataset (1.4 million rows). 
 
-## 🏗️ Architecture
+##  Architecture
 
 - **Machine Learning Model:** Scikit-Learn (TF-IDF Vectorization + Ridge Regression)
 - **Backend API:** FastAPI (Python) serving the serialized `.joblib` model.
